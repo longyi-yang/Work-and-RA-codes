@@ -1,2 +1,2 @@
 # Work_codes
-The codes I wrote during my work and RA experience, include Python and R.
+Some codes I wrote for work and research assistance, include Python and R.
